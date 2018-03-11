@@ -1,3 +1,3 @@
 # exsercises-repo
 Repo made for exercise
-This will be conflict!!!!
+We resolved the conflict!
